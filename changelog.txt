@@ -1,0 +1,9 @@
+v0.0.0.0 2017.05.09
+--------
+You can add new routes and you can search and list routes
+added SQLite database (data.db)
+project created
+added Distance, DistanceUnit and Route classes
+added Tabs to UI
+dbTab is ready
+default locale is English and added Hungarian translation
