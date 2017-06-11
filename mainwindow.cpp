@@ -134,7 +134,7 @@ void MainWindow::on_actionAbout_triggered()
         "<tr>"
             "<td>"
                 "<h3>"+tr("Galactic Calculator")+"</h3>"+
-                tr("Version")+" 0.3.1 32 bit<br>"+
+                tr("Version")+" 0.3.1.0.3 32 bit<br>"+
                 tr("Built on")+" 2017.05.30 16:05<br>"
                 "Qt 5.8.0 (MinGW 5.3.0)"
                 "<p>"+

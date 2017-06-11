@@ -1,9 +1,19 @@
-v0.0.0.0 2017.05.09
---------
-You can add new routes and you can search and list routes
-added SQLite database (data.db)
-project created
-added Distance, DistanceUnit and Route classes
-added Tabs to UI
-dbTab is ready
-default locale is English and added Hungarian translation
+﻿v0.3.1.0.3
+-------------
+Updater update (multithread support)
+
+v0.3.1.0.1
+-------------
+Updater update (smaller size with smae functionality)
+
+v0.3.1
+-------------
+Java based updater: GalacticUpdater.jar, Updater.bat
+
+v0.3
+-------------
+About and About Qt menuentry ready
+Quit menuentry 
+Added SQLite database (data.db)
+GalacticCalculatorDbInit.sql init script to create the database
+The program can access the databse, can list the database and can insert new routes to the database
